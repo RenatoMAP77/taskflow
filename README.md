@@ -165,7 +165,11 @@ curl -X POST http://localhost:3000/api/v1/tasks \
 
 ## 👥 Equipe
 
-- Equipe TaskFlow - PUC Minas
+- Renato Matos - [GitHub](https://github.com/RenatoMAP77)
+- Felipe Picinin - [GitHub](https://github.com/felipepicinin)
+- Lucas Garcia - [GitHub](https://github.com/lucasgarcia)
+- Renato Cazzoleti - [GitHub](https://github.com/renatocazzoleti)
+- Pedro Braga - [GitHub](https://github.com/bragap)
 
 ## 📄 Licença
 
