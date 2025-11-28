@@ -1,0 +1,41 @@
+# ============================================
+# TaskFlow API - Git Ignore
+# ============================================
+
+# Dependências
+node_modules/
+
+# Build
+dist/
+
+# Cobertura de testes
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Cache
+.npm
+.eslintcache

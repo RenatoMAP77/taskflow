@@ -1,0 +1,52 @@
+# ============================================
+# TaskFlow API - Docker Ignore
+# ============================================
+
+# Dependências
+node_modules
+npm-debug.log
+
+# Arquivos de build
+dist
+
+# Testes
+tests
+coverage
+*.test.ts
+jest.config.ts
+
+# Configurações de IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Documentação
+README.md
+docs
+
+# Arquivos de ambiente
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# CI/CD
+.github
+.gitlab-ci.yml
+.circleci
+Jenkinsfile
